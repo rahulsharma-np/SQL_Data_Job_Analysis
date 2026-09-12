@@ -1,0 +1,101 @@
+job_id,company_id,job_title_short,job_title,job_location,job_via,job_schedule_type,job_work_from_home,job_posted_date,salary_year_avg
+100000,3190,Data Engineer,Cloud Data Engineer,"San Francisco, CA",via BeBee,Full-time,False,2026-05-20 05:12:28,172000.0
+100001,3896,Data Engineer,ETL Developer,"Remote, US",via BeBee,Full-time,True,2026-05-02 16:38:25,126800.0
+100002,4522,Senior Data Analyst,Lead Data Analyst,"San Francisco, CA",via Indeed,Full-time,False,2026-06-21 09:31:29,125100.0
+100003,1991,Cloud Data Architect,Cloud Data Architect,"Remote, India",via ZipRecruiter,Full-time,True,2026-02-06 09:24:49,245300.0
+100004,4671,Machine Learning Engineer,MLOps Engineer,Remote,via BeBee,Part-time,True,2026-06-27 22:24:15,133000.0
+100005,1987,Senior Data Analyst,Data Analytics Manager,"Remote, India",via LinkedIn,Contractor,True,2026-03-21 04:32:20,118300.0
+100006,1543,Machine Learning Engineer,MLOps Engineer,Remote,via ZipRecruiter,Part-time,True,2026-01-20 19:48:52,217500.0
+100007,4825,Cloud Data Architect,Principal Data Infrastructure Engineer,"London, UK",via BeBee,Part-time,False,2026-08-17 03:21:33,201000.0
+100008,1619,Data Engineer,Cloud Data Engineer,"London, UK",via Upwork,Contractor,False,2026-04-09 03:33:14,152700.0
+100009,1997,Senior Data Analyst,Data Analytics Manager,"Chicago, IL",via BeBee,Part-time,False,2026-05-01 12:08:16,135200.0
+100010,702,Data Engineer,Data Engineer,"Remote, India",via Indeed,Full-time,True,2026-06-21 06:53:51,103600.0
+100011,4271,Data Analyst,Data Analyst,"Remote, US",via ZipRecruiter,Full-time,True,2026-08-06 16:29:50,111600.0
+100012,3105,Data Engineer,Data Engineer,"Remote, US",via Upwork,Full-time,True,2026-08-18 23:41:17,144000.0
+100013,4863,Machine Learning Engineer,MLOps Engineer,"London, UK",via LinkedIn,Full-time,False,2026-02-02 22:25:13,157200.0
+100014,2714,Senior Data Analyst,Senior Data Analyst,"Austin, TX",via Upwork,Contractor,False,2026-02-25 13:06:19,157300.0
+100015,2182,Data Engineer,Cloud Data Engineer,"Remote, US",via Indeed,Part-time,True,2026-05-21 13:23:19,100500.0
+100016,3879,Data Scientist,Data Scientist,"New York, NY",via LinkedIn,Full-time,True,2026-06-14 17:39:48,146100.0
+100017,3692,Data Analyst,Data Analyst,"Remote, India",via Indeed,Contractor,True,2026-08-12 14:22:14,99000.0
+100018,4163,Data Analyst,Marketing Data Analyst,"San Francisco, CA",via LinkedIn,Part-time,False,2026-06-22 17:08:55,96900.0
+100019,3338,Machine Learning Engineer,Machine Learning Engineer,"Austin, TX",via BeBee,Part-time,False,2026-07-19 19:09:50,175100.0
+100020,3481,Data Engineer,Analytics Engineer,"Remote, India",via Indeed,Full-time,True,2026-07-10 04:42:52,121000.0
+100021,4665,Cloud Data Architect,Cloud Data Architect,"San Francisco, CA",via Indeed,Full-time,False,2026-02-08 14:45:32,195300.0
+100022,2198,Machine Learning Engineer,GenAI Engineer,"Austin, TX",via ZipRecruiter,Full-time,True,2026-01-20 08:52:24,229200.0
+100023,1462,Machine Learning Engineer,Machine Learning Engineer,"Austin, TX",via LinkedIn,Part-time,False,2026-01-23 14:17:45,153000.0
+100024,2141,Cloud Data Architect,Cloud Data Architect,"San Francisco, CA",via Upwork,Contractor,True,2026-05-07 00:27:21,152900.0
+100025,1118,Data Engineer,ETL Developer,Remote,via Indeed,Contractor,True,2026-03-06 19:24:26,102800.0
+100026,1704,Cloud Data Architect,Cloud Data Architect,"New York, NY",via ZipRecruiter,Part-time,False,2026-06-09 20:27:03,153100.0
+100027,3028,Data Analyst,Junior Data Analyst,"San Francisco, CA",via Upwork,Contractor,True,2026-08-01 16:43:51,73300.0
+100028,4256,Machine Learning Engineer,Machine Learning Engineer,"New York, NY",via BeBee,Contractor,False,2026-06-01 10:43:12,204300.0
+100029,1867,Senior Data Analyst,Data Analytics Manager,"Chicago, IL",via Indeed,Contractor,False,2026-01-04 17:56:13,154200.0
+100030,1868,Data Engineer,Cloud Data Engineer,"New York, NY",via Upwork,Full-time,False,2026-03-11 12:31:48,122400.0
+100031,855,Data Analyst,Junior Data Analyst,Remote,via BeBee,Contractor,True,2026-01-05 10:30:05,106000.0
+100032,4812,Data Analyst,Product Data Analyst,Remote,via Indeed,Contractor,True,2026-04-02 10:15:47,68600.0
+100033,2341,Data Engineer,ETL Developer,Remote,via ZipRecruiter,Full-time,True,2026-03-01 06:34:04,127400.0
+100034,4997,Cloud Data Architect,Cloud Data Architect,"Chicago, IL",via Upwork,Contractor,False,2026-06-04 10:52:12,255000.0
+100035,3801,Data Engineer,Data Engineer,"San Francisco, CA",via BeBee,Part-time,True,2026-08-01 11:37:52,139400.0
+100036,3243,Data Analyst,Junior Data Analyst,"San Francisco, CA",via LinkedIn,Contractor,True,2026-08-16 09:23:32,97500.0
+100037,1881,Machine Learning Engineer,MLOps Engineer,"London, UK",via Upwork,Part-time,False,2026-04-03 03:41:55,156400.0
+100038,3858,Data Analyst,Marketing Data Analyst,"Remote, US",via LinkedIn,Part-time,True,2026-05-11 05:22:55,96400.0
+100039,1282,Machine Learning Engineer,Machine Learning Engineer,"Austin, TX",via ZipRecruiter,Part-time,False,2026-01-01 20:15:29,214900.0
+100040,2387,Senior Data Analyst,Senior Data Analyst,Remote,via Upwork,Part-time,True,2026-08-04 22:09:47,134500.0
+100041,4058,Data Engineer,Cloud Data Engineer,"Remote, US",via ZipRecruiter,Part-time,True,2026-02-12 00:02:42,132200.0
+100042,4134,Data Engineer,Cloud Data Engineer,"Remote, US",via Indeed,Contractor,True,2026-04-02 01:05:13,158400.0
+100043,1779,Data Analyst,Marketing Data Analyst,"Remote, US",via BeBee,Part-time,True,2026-04-28 06:23:00,101100.0
+100044,566,Cloud Data Architect,Principal Data Infrastructure Engineer,Remote,via ZipRecruiter,Part-time,True,2026-06-14 19:53:17,199800.0
+100045,3156,Machine Learning Engineer,Machine Learning Engineer,Remote,via LinkedIn,Part-time,True,2026-04-10 12:34:13,195700.0
+100046,2688,Data Engineer,Data Engineer,Remote,via Indeed,Part-time,True,2026-07-17 16:59:31,114600.0
+100047,2703,Machine Learning Engineer,MLOps Engineer,"Chicago, IL",via ZipRecruiter,Full-time,False,2026-08-15 21:04:35,217300.0
+100048,4785,Data Analyst,Data Analyst,"Remote, India",via LinkedIn,Part-time,True,2026-02-20 05:10:09,94900.0
+100049,3200,Data Scientist,Quantitative Data Scientist,Remote,via BeBee,Part-time,True,2026-02-10 03:55:29,159200.0
+100050,3812,Data Scientist,Data Scientist,"Chicago, IL",via LinkedIn,Part-time,True,2026-07-10 01:44:24,172900.0
+100051,2246,Machine Learning Engineer,Machine Learning Engineer,"Remote, US",via LinkedIn,Contractor,True,2026-07-13 13:55:13,205500.0
+100052,4006,Data Scientist,AI Data Scientist,"San Francisco, CA",via Upwork,Part-time,False,2026-03-22 15:38:00,182700.0
+100053,2202,Senior Data Analyst,Data Analytics Manager,Remote,via Upwork,Part-time,True,2026-07-13 00:16:43,134600.0
+100054,1740,Cloud Data Architect,Cloud Data Architect,"Chicago, IL",via LinkedIn,Full-time,True,2026-05-28 07:25:09,259700.0
+100055,1988,Data Analyst,Data Analyst,"Remote, India",via Indeed,Contractor,True,2026-02-09 21:08:26,97300.0
+100056,3408,Machine Learning Engineer,Machine Learning Engineer,"Remote, India",via ZipRecruiter,Contractor,True,2026-07-21 02:56:47,157600.0
+100057,4435,Data Engineer,Analytics Engineer,"London, UK",via LinkedIn,Full-time,False,2026-03-02 09:15:27,143500.0
+100058,3287,Cloud Data Architect,Principal Data Infrastructure Engineer,"San Francisco, CA",via Upwork,Full-time,False,2026-08-21 06:09:37,201300.0
+100059,4292,Cloud Data Architect,Principal Data Infrastructure Engineer,"San Francisco, CA",via BeBee,Contractor,False,2026-07-15 22:08:58,222100.0
+100060,4199,Senior Data Analyst,Lead Data Analyst,"Remote, US",via LinkedIn,Contractor,True,2026-02-11 23:36:58,126100.0
+100061,763,Machine Learning Engineer,GenAI Engineer,"Remote, US",via ZipRecruiter,Contractor,True,2026-08-26 03:19:06,178000.0
+100062,706,Senior Data Analyst,Data Analytics Manager,"Austin, TX",via ZipRecruiter,Contractor,True,2026-06-22 14:12:50,136300.0
+100063,998,Cloud Data Architect,Cloud Data Architect,Remote,via LinkedIn,Contractor,True,2026-08-14 07:31:32,176600.0
+100064,1506,Machine Learning Engineer,AI Engineer,"Austin, TX",via LinkedIn,Contractor,False,2026-02-22 18:38:29,211600.0
+100065,4086,Cloud Data Architect,Cloud Data Architect,"Chicago, IL",via Indeed,Contractor,False,2026-01-14 17:50:45,205500.0
+100066,2586,Data Analyst,Marketing Data Analyst,"Remote, US",via Indeed,Part-time,True,2026-04-20 22:39:44,108300.0
+100067,1851,Data Engineer,Analytics Engineer,"Austin, TX",via Upwork,Full-time,False,2026-07-11 06:03:40,118600.0
+100068,2149,Senior Data Analyst,Data Analytics Manager,"Chicago, IL",via BeBee,Part-time,False,2026-06-26 18:04:21,153400.0
+100069,3939,Data Scientist,Data Scientist,"New York, NY",via BeBee,Full-time,False,2026-04-06 21:25:51,170300.0
+100070,4998,Senior Data Analyst,Lead Data Analyst,"New York, NY",via ZipRecruiter,Part-time,False,2026-05-06 18:48:26,131500.0
+100071,2868,Cloud Data Architect,Cloud Data Architect,"Chicago, IL",via LinkedIn,Part-time,False,2026-06-21 21:05:35,226300.0
+100072,1310,Data Engineer,Analytics Engineer,"New York, NY",via Indeed,Full-time,False,2026-03-07 05:39:51,113200.0
+100073,2728,Senior Data Analyst,Data Analytics Manager,"Remote, India",via Indeed,Part-time,True,2026-03-21 10:53:47,156000.0
+100074,1576,Data Engineer,Data Engineer,"San Francisco, CA",via ZipRecruiter,Part-time,False,2026-03-03 20:06:38,169600.0
+100075,1506,Cloud Data Architect,Cloud Data Architect,"Remote, US",via Upwork,Part-time,True,2026-01-07 13:14:10,171500.0
+100076,4225,Data Scientist,AI Data Scientist,"Chicago, IL",via Upwork,Contractor,False,2026-08-03 04:34:45,180800.0
+100077,2404,Cloud Data Architect,Cloud Data Architect,"Remote, US",via ZipRecruiter,Part-time,True,2026-02-18 19:03:16,225400.0
+100078,2391,Data Analyst,Data Analyst,"Remote, India",via LinkedIn,Contractor,True,2026-07-10 01:32:30,109200.0
+100079,1021,Data Scientist,Quantitative Data Scientist,"Remote, India",via BeBee,Part-time,True,2026-04-23 03:54:54,138600.0
+100080,1833,Cloud Data Architect,Principal Data Infrastructure Engineer,Remote,via Upwork,Full-time,True,2026-03-28 15:53:12,188000.0
+100081,4507,Data Engineer,Data Engineer,"Remote, India",via ZipRecruiter,Full-time,True,2026-03-21 17:50:14,105700.0
+100082,4354,Cloud Data Architect,Cloud Data Architect,"Chicago, IL",via ZipRecruiter,Part-time,False,2026-05-08 15:51:11,219000.0
+100083,3746,Data Scientist,Quantitative Data Scientist,"New York, NY",via ZipRecruiter,Part-time,False,2026-04-08 08:43:25,125400.0
+100084,2540,Machine Learning Engineer,AI Engineer,"Chicago, IL",via LinkedIn,Part-time,True,2026-06-21 18:41:18,219900.0
+100085,4920,Data Analyst,Product Data Analyst,"London, UK",via ZipRecruiter,Part-time,False,2026-01-02 10:36:10,83500.0
+100086,3663,Senior Data Analyst,Data Analytics Manager,"Remote, India",via BeBee,Full-time,True,2026-07-19 19:26:47,116900.0
+100087,3917,Machine Learning Engineer,Machine Learning Engineer,"San Francisco, CA",via Upwork,Part-time,False,2026-07-04 04:45:43,218100.0
+100088,3786,Machine Learning Engineer,Machine Learning Engineer,"Chicago, IL",via ZipRecruiter,Part-time,True,2026-01-02 00:23:05,165500.0
+100089,4685,Data Scientist,Quantitative Data Scientist,"San Francisco, CA",via ZipRecruiter,Contractor,False,2026-01-12 21:48:55,173800.0
+100090,2280,Machine Learning Engineer,AI Engineer,"San Francisco, CA",via ZipRecruiter,Contractor,True,2026-01-22 15:58:22,151500.0
+100091,1313,Senior Data Analyst,Senior Data Analyst,"San Francisco, CA",via ZipRecruiter,Part-time,True,2026-01-06 02:06:14,126000.0
+100092,1499,Machine Learning Engineer,GenAI Engineer,"London, UK",via ZipRecruiter,Contractor,False,2026-01-10 20:22:27,141700.0
+100093,4029,Machine Learning Engineer,MLOps Engineer,"Remote, India",via LinkedIn,Full-time,True,2026-02-12 15:48:45,217900.0
+100094,2980,Machine Learning Engineer,MLOps Engineer,"San Francisco, CA",via ZipRecruiter,Contractor,False,2026-03-27 06:56:48,224200.0
+100095,4577,Senior Data Analyst,Senior Data Analyst,"London, UK",via Indeed,Contractor,False,2026-04-25 01:57:34,148100.0
+100096,1102,Data Scientist,AI Data Scientist,"San Francisco, CA",via LinkedIn,Full-time,False,2026-01-12 12:54:19,138700.0
+100097,4785,Machine Learning Engineer,MLOps Engineer,Remote,via Upwork,Part-time,True,2026-02-16 05:54:23,206600.0
+100098,2831,Data Analyst,Marketing Data Analyst,"Remote, India",via BeBee,Contractor,True,2026-03-09 20:25:45,108200.0
+100099,874,Senior Data Analyst,Senior Data Analyst,"Remote, US",via BeBee,Full-time,True,2026-01-11 07:37:38,158800.0
