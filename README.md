@@ -1,5 +1,6 @@
+<img width="870" height="483" alt="image" src="https://github.com/user-attachments/assets/d7dad3d7-bf0f-4841-a2cf-bb0727f2d83d" />
 
-<img width="960" height="540" alt="Top 10 highest-paying Data Analyst roles — 2026" src="https://github.com/user-attachments/assets/62da7da9-06e4-4923-8a28-9d74978cf4f2" />
+
 
 
 
