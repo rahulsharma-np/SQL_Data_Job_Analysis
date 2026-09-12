@@ -58,3 +58,33 @@ ALTER TABLE public.skills_job_dim OWNER to postgres;
 CREATE INDEX idx_company_id ON public.job_postings_fact (company_id);
 CREATE INDEX idx_skill_id ON public.skills_job_dim (skill_id);
 CREATE INDEX idx_job_id ON public.skills_job_dim (job_id);
+
+
+CREATE TABLE job_postings_fact_research ( job_id INT PRIMARY KEY, company_id INT, job_title_short VARCHAR(50), job_title VARCHAR(255), job_location VARCHAR(255), job_via VARCHAR(255), job_schedule_type VARCHAR(50), job_work_from_home BOOLEAN, search_location VARCHAR(255), job_posted_date TIMESTAMP, job_no_degree_mention BOOLEAN, job_health_insurance BOOLEAN, job_country VARCHAR(255), salary_rate VARCHAR(50), salary_year_avg NUMERIC, salary_hour_avg NUMERIC ); 
+
+
+SELECT table_name 
+FROM information_schema.tables 
+WHERE table_schema = 'public' 
+
+DROP TABLE IF EXISTS job_postings_fact_research;
+
+CREATE TABLE job_postings_fact_research (
+    job_id INT PRIMARY KEY,
+    company_id INT,
+    job_title_short VARCHAR(50),
+    job_title TEXT,
+    job_location TEXT,
+    job_via TEXT,
+    job_schedule_type TEXT,
+    job_work_from_home BOOLEAN,
+    job_posted_date TIMESTAMP,
+    salary_year_avg NUMERIC
+);
+
+COPY job_postings_fact_research(job_id, company_id, job_title_short, job_title, job_location, job_via, job_schedule_type, job_work_from_home, job_posted_date, salary_year_avg)
+FROM 'D:/SQL_Data_Job_Analysis/csv_files/job_postings_fact_research.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"');
+
+select * from job_postings_fact_research LIMIT 10;
+SELECT  COUNT(*) FROM job_postings_fact_research;

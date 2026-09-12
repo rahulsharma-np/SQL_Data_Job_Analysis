@@ -46,3 +46,13 @@ SELECT COUNT(*) FROM company_dim;
 SELECT COUNT(*) FROM skills_dim;
 SELECT COUNT(*) FROM job_postings_fact;
 SELECT COUNT(*) FROM skills_job_dim;
+
+
+TRUNCATE job_postings_fact_research;
+
+COPY job_postings_fact_research(job_id, company_id, job_title_short, job_title, job_location, job_via, job_schedule_type, job_work_from_home, search_location, job_posted_date, job_no_degree_mention, job_health_insurance, job_country, salary_rate, salary_year_avg, salary_hour_avg)
+FROM 'D:/SQL_Data_Job_Analysis/csv_files/job_postings_fact_research.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"');
+
+COPY (SELECT '') TO PROGRAM 'echo test'; -- ignore this, just testing connectivity
+
